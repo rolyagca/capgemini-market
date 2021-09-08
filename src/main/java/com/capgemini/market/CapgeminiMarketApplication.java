@@ -10,4 +10,6 @@ public class CapgeminiMarketApplication {
 		SpringApplication.run(CapgeminiMarketApplication.class, args);
 	}
 
+
+
 }
